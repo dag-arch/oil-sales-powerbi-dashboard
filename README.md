@@ -3,7 +3,7 @@
 An end-to-end Power BI project analyzing 2,000 oil sales transactions
 across Saudi Arabia (2022–2024).
 
-![Dashboard Screenshot](exports/dashboard_screenshot.png)
+![Dashboard Screenshot](dashboard_screenshot.png)
 
 ## Project Overview
 - **Data source:** Oil sales dataset (Kaggle)
